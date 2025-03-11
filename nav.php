@@ -45,7 +45,7 @@
      data-wow-delay="0.1s">
      <a href="index.php" class="navbar-brand p-0">
          <img class="img-fluid  " src="icon/1.png" alt="Icon">
-         <h5 class="m-0 text-primary"> Umiyas Exports LLP</h5>
+         <h5 class="m-0 text-primary fw-bold"> Umiyas Exports LLP</h5>
      </a>
      <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
          <span class="navbar-toggler-icon"></span>
